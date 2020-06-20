@@ -3,12 +3,12 @@
 /* Text inside these asterisks and slashes are comments for human */
 
   a {
-    color: black; /* set the text color to blue here */
+    color: #c48c74; /* set the text color to blue here */
     text-decoration: none; /* This means we do not want hyperlinks to be underlined */
   }
 
   a:hover {
-    color: #e4d4d4; /* set the text color to red here */
+    color: #b1a192; /* set the text color to red here */
     text-decoration: none; /* This means we do not want hyperlinks to be underlined */
   }
 
